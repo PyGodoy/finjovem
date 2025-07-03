@@ -53,3 +53,6 @@ docker-compose up --build
 
 # Acesse em http://localhost:3000
 ```
+## Participantes do Projeto
+### Mikaell de Godoy Vitorio
+### Paulo César Alves Cabral
