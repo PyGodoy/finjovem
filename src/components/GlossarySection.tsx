@@ -45,7 +45,7 @@ export default function GlossarySection() {
               </div>
               <input
                 type="text"
-                className="block w-full pl-10 pr-3 py-3 sm:py-3 text-sm sm:text-base border border-gray-300 rounded-lg bg-white shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500"
+                className="block w-full pl-10 pr-3 py-3 sm:py-3 text-sm sm:text-base border border-gray-300 rounded-lg bg-white shadow-sm focus:outline-none focus:ring-blue-500 focus:border-blue-500 text-gray-900 placeholder:text-gray-600"
                 placeholder="Buscar termo..."
                 value={searchTerm}
                 onChange={(e) => setSearchTerm(e.target.value)}
