@@ -44,6 +44,7 @@ npm install
 npm run dev
 
 # Acesse em http://localhost:3000
+```
 
 ### Com Docker
 
