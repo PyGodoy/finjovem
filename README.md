@@ -47,8 +47,9 @@ npm run dev
 ```
 
 ### Com Docker
-
+```bash
 # Build e subida do container
 docker-compose up --build
 
 # Acesse em http://localhost:3000
+```
