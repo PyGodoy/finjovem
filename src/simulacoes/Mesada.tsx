@@ -246,7 +246,7 @@ export function MesadaSimulator() {
     setTimeout(() => {
       setShowFeedback(false);
       setCurrentStep(option.nextStep - 1);
-    }, 3000);
+    }, 5000);
   };
 
   const resetSimulation = () => {
